@@ -22,7 +22,7 @@ My research focuses on **long video understanding** and **multi-modal representa
     </li>
     <li class="news-item">
       <span class="news-date">2025.06</span>
-      <span class="news-text">StreamFormer is accepted by ICCV 2025!.</span>
+      <span class="news-text">StreamFormer is accepted by ICCV 2025.</span>
     </li>
     <li class="news-item">
       <span class="news-date">2024.08</span>
