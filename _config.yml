@@ -1,0 +1,43 @@
+# Basic Information
+title: Zeqian Li
+position: Ph.D. Candidate
+affiliation: Shanghai Jiao Tong University
+affiliation_link: https://en.sjtu.edu.cn/
+email: lzq0103 (at) sjtu.edu.cn
+
+# Search Engine Optimization (SEO)
+keywords: Zeqian Li, Shanghai Jiao Tong University, long video understanding, multi-modal representation learning
+description: Personal homepage of Zeqian Li, Ph.D. candidate at Shanghai Jiao Tong University.
+canonical: https://lzq5.github.io/
+
+# Links
+google_scholar: https://scholar.google.com.hk/citations?user=V8kmg30AAAAJ&hl=en
+github_link: https://github.com/Lzq5
+
+# Images
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+enable_footnote: true
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
+font: "Serif"
+
+# Use this project as a remote theme for GitHub Pages
+remote_theme: yaoyao-liu/minimal-light
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
+  - resources/
+  - stylesheet.css

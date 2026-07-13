@@ -1,0 +1,53 @@
+main:
+  - title: "SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding"
+    authors: "Luoyi Sun, Xiao Zhou, <strong>Zeqian Li</strong>, Ya Zhang, Yanfeng Wang, Weidi Xie"
+    conference_short: ACM MM
+    conference: "ACM International Conference on Multimedia (ACM MM), 2026."
+    pdf: https://arxiv.org/pdf/2604.13023
+    page: https://loiesun.github.io/spotsound/
+    code: https://github.com/LoieSun/SpotSound
+    image: ./assets/img/spotsound.png
+    description: "Utilize large audio-language models for audio temporal grounding and construct a challenging needle-in-a-haystack benchmark."
+    primary_author: true
+
+  - title: "DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation"
+    authors: "Mingji Ge, Qirui Chen, <strong>Zeqian Li</strong>, Weidi Xie"
+    conference_short: ACM MM
+    conference: "ACM International Conference on Multimedia (ACM MM), 2026."
+    pdf: https://arxiv.org/pdf/2604.26565
+    image: ./assets/img/densestep.png
+    description: "An automated, training-free pipeline to extract high-quality procedural annotations from in-the-wild instructional videos."
+    primary_author: true
+
+  - title: "Universal Video Temporal Grounding with Generative Multi-modal Large Language Models"
+    authors: "<strong>Zeqian Li</strong>, Shangzhe Di, Zhonghua Zhai, Weilin Huang, Yanfeng Wang, Weidi Xie"
+    conference_short: NeurIPS
+    conference: "Advances in Neural Information Processing Systems (NeurIPS), 2025."
+    pdf: https://arxiv.org/abs/2506.18883
+    page: https://lzq5.github.io/UniTime/
+    code: https://lzq5.github.io/UniTime/
+    image: ./assets/img/unitime.png
+    description: "Towards universal video grounding with superior accuracy, generalizability, and robustness."
+    primary_author: true
+
+  - title: "Learning Streaming Video Representation via Multitask Training"
+    authors: "Yibin Yan*, Jilan Xu*, Shangzhe Di, Yikun Liu, Yudi Shi, Qirui Chen, <strong>Zeqian Li</strong>, Yifei Huang, Weidi Xie"
+    conference_short: ICCV
+    conference: "IEEE/CVF International Conference on Computer Vision (ICCV), 2025."
+    pdf: https://arxiv.org/pdf/2504.20041
+    page: https://go2heart.github.io/streamformer/
+    code: https://go2heart.github.io/streamformer/
+    image: ./assets/img/streamformer.png
+    description: "Learn streaming video representations of various granularities through multitask training, including retrieval, action recognition, temporal grounding, and segmentation."
+    primary_author: true
+
+  - title: "Multi-Sentence Grounding for Long-term Instructional Video"
+    authors: "<strong>Zeqian Li*</strong>, Qirui Chen*, Tengda Han, Ya Zhang, Yanfeng Wang, Weidi Xie"
+    conference_short: ECCV
+    conference: "European Conference on Computer Vision (ECCV), 2024."
+    pdf: https://arxiv.org/abs/2312.14055
+    page: https://lzq5.github.io/Video-Text-Alignment/
+    code: https://github.com/Lzq5/Video-Text-Alignment
+    image: ./assets/img/howtostep.png
+    description: "An automatic, scalable pipeline for denoising the large-scale instructional dataset and construct a high-quality video-text dataset with multiple descriptive steps supervision."
+    primary_author: true
