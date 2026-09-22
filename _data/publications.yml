@@ -1,8 +1,8 @@
 main:
   - title: "SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding"
     authors: "Luoyi Sun, Xiao Zhou, <strong>Zeqian Li</strong>, Ya Zhang, Yanfeng Wang, Weidi Xie"
-    conference_short: ACM MM
-    conference: "ACM International Conference on Multimedia (ACM MM), 2026."
+    conference_short: ACM MM (Oral)
+    conference: "ACM International Conference on Multimedia (ACM MM) Oral, 2026."
     pdf: https://arxiv.org/pdf/2604.13023
     page: https://loiesun.github.io/spotsound/
     code: https://github.com/LoieSun/SpotSound
@@ -12,8 +12,8 @@ main:
 
   - title: "DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation"
     authors: "Mingji Ge, Qirui Chen, <strong>Zeqian Li</strong>, Weidi Xie"
-    conference_short: ACM MM
-    conference: "ACM International Conference on Multimedia (ACM MM), 2026."
+    conference_short: ACM MM (Oral)
+    conference: "ACM International Conference on Multimedia (ACM MM) Oral, 2026."
     pdf: https://arxiv.org/pdf/2604.26565
     image: ./assets/img/densestep.png
     description: "An automated, training-free pipeline to extract high-quality procedural annotations from in-the-wild instructional videos."
